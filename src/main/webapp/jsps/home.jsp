@@ -110,12 +110,12 @@
     </nav>
 
     <div class="hero">
-        <h2>Empowering Students to Achieve Excellence</h2>
+        <h2>Empowering Students to Achieve Excellence nnnnnnnnnnnnnnnnnnnnnnnnnnn</h2>
     </div>
 
     <section class="sections">
         <div class="section">
-            <h3>Our Mission</h3>
+            <h3>Our sohaib</h3>
             <p>Providing quality education that inspires students to achieve their best potential and shape their future.</p>
         </div>
         <div class="section">
