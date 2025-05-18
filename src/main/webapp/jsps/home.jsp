@@ -129,7 +129,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 [ IWU]. All rights reserved. Designed by Your Name.</p>
+        <p>&copy; 2025 [ OU]. All rights reserved. Designed by Your Name.</p>
     </footer>
 
 </body>
